@@ -33,7 +33,7 @@
 
 
 
-
+<!--
 <a href="https://mastwet.github.io/">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=MengFanjun020906&row=1&column=4"/>
 </a>
@@ -42,6 +42,8 @@
 <a href="https://mastwet.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MengFanjun020906&hide=contribs"/>
 </a>
+
+-->
 
 <h2 align="left">Coding Stats</h2>
 
