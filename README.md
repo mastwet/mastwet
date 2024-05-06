@@ -48,9 +48,8 @@
 <h2 align="left">Coding Stats</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20hr%2030%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/i%20DONT%20CARE%20WHAT%27IHAD%20Written-1.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/i%20DONT%20CARE%20WHAT%27IHAD%20Written-1.8%20million%20lines%20of%20junk-blue)
 
 📅 **I'm Most Productive on Tuesday** 
 
