@@ -67,10 +67,10 @@ Sunday                   0 commits          ░░░░░░░░░░░░
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Rust,C++
 
-🔥 Editors: 
-No Activity Tracked This Week
+🔥 Games: 
+RA3
 
 💻 Operating System: 
 No Activity Tracked This Week
