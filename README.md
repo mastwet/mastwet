@@ -45,9 +45,22 @@
 
 -->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2030%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
+
+<a href="https://mfjblog.top" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=mfjblog.top&message=MyBlog&color=gray&labelColor=2C68C3&style=for-the-badge&logo=MicroSoftOneDrive&logoColor=white" alt="GitHub" /></a>
+
+
+
+
+<a href="https://mengfanjun020906.github.io/">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=MengFanjun020906&row=1&column=4"/>
+</a>
+
+
+<a href="https://mengfanjun020906.github.io/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MengFanjun020906&hide=contribs"/>
+</a>
+
 
 <h2 align="left">Coding Stats</h2>
 
