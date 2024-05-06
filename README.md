@@ -1,23 +1,25 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <!--     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!;This+is+MengFanjun....;Nice+to+meet+you!&center=true&size=30"> -->
+    <!--     <img src="https://readme-typing-svg.herokuapp.com/?lines=大,+家好!;这+是+大湿....;很+高兴+见+到你!&center=true&size=30"> -->
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=1AACF7&center=true&vCenter=true&lines=Hello%2C+There!;This+is+MengFanjun!;Nice+to+meet+you!">
+      src="https://readme-typing-svg.herokuapp.com?font=Charis+SIL&size=30&duration=3000&color=1AACF7&center=true&vCenter=true&lines=Hello%2C+There!;This+is+Mastwet!;Nice+to+meet+you!">
   </a>
   </h1>
 
 
 
-# Hi,there is MengFanjun👋
-- A student from China.🇨🇳
-- Senior majoring in communication engineering
-- This is my [blog](https://mfjblog.top), most of which is my study record, later thought, blog can also record some personal life what
-- My [email](mengfanjun_020906@outlook.com), please contact me if you have any questions
-- I mainly do embedded programming, artificial intelligence and other aspects
-- Currently studying **signal and system professional courses**
-- These warehouses and blogs are also my witnesses on the way to college
-- **Continue to create, continue to output, be a lifelong learner**
+# Hi,there is Mastwet(Canny Xie)👋
+- An Embedded Systems Engineer from China. 🇨🇳
+- CEO at Rapidpulze Technology, steering innovation.
+- This is my [blog]([https://www.cnblogs.com/bigtwetwet](https://www.cnblogs.com/bigtwetwet)), most of which is my study record, later thought, blog can also record some personal life what
+- My [email](mastwet@foxmail.com), please contact me if you have any questions
+- Melodies meet code: catch my tunes on NetEase Cloud Music Or SoundCloud.
+- A Communication Engineer by trade, exploring the depths of tech.
+- My toolkit includes embedded programming, AI, and more.
+- Presently engrossed in audio signal processing and systems.
+- Ready to become a Crab Man(i love Rust)
+
 
 
 
