@@ -49,7 +49,7 @@
 
 <!--START_SECTION:waka-->
 
-![Lines of code](https://img.shields.io/badge/i%20DONT%20CARE%20WHAT%27IHAD%20Written-1.8%20million%20lines%20of%20junk-blue)
+![Lines of code](https://img.shields.io/badge/i%20DONT%20CARE%20WHAT%27IHAD%20Written-1.8%114514%lines%20of%20junk-blue)
 
 📅 **I'm Most Productive on Tuesday** 
 
