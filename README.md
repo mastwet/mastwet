@@ -207,7 +207,43 @@ No Activity Tracked This Week
       src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"
     />
-
+    </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="typescript"
+  />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    alt="javascript"
+  />
+</a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"
+    alt="vue.js"
+  />
+</a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/Dart-017507?style=for-the-badge&logo=dart&logoColor=white"
+    alt="dart"
+  />
+</a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
+    alt="php"
+  />
+</a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+    alt="csharp"
+  />
+</a>
 
  
   <h3 align="left">Tools not ofen use but can use for me</h3>
@@ -265,11 +301,22 @@ No Activity Tracked This Week
   <h3 align="left">Recently Learning</h3>
   <a href="https://rust.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/-Rust-00000?style=for-the-badge&logo=rust&logoColor=red"
+      src="https://img.shields.io/badge/Rust-00000?style=for-the-badge&logo=rust&logoColor=white"
       alt="c"
     />
   </a>
-
+  <a href="https://rust.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white"
+      alt="c"
+    />
+  </a>
+  <a href="https://zh.wikipedia.org/zh-tw/Linux" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+      alt="linux"
+    />
+  </a> 
 
 
 <!-- Connect with me -->
