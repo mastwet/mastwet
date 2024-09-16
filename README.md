@@ -156,6 +156,13 @@ No Activity Tracked This Week
       alt="linux"
     />
   </a> 
+    
+  <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"
+      alt="ubuntu"
+    />
+  </a> 
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white"
@@ -176,7 +183,7 @@ No Activity Tracked This Week
     />
   </a> 
 
-
+  <h3 align="left">Tools not use but can use for me</h3>
   <a href="https://www.altium.com/altium-designer" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Atiumdesigner-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white"
@@ -190,12 +197,6 @@ No Activity Tracked This Week
     />
   </a> 
 
-  <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"
-      alt="ubuntu"
-    />
-  </a> 
 
   <a href="https://cn.aliyun.com/" target="_blank" rel="noreferrer">
     <img
@@ -215,9 +216,7 @@ No Activity Tracked This Week
       alt="proteus"
     />
   </a> 
-    
-  <h3 align="left">Recently Learning</h3>
-     <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+       <a href="https://www.docker.com" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
       alt="docker"
@@ -229,7 +228,15 @@ No Activity Tracked This Week
       alt="docker"
     />
   </a>
-  
+    
+  <h3 align="left">Recently Learning</h3>
+
+    <a href="https://rust.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Rust-00000?style=for-the-badge&logo=rust&logoColor=red"
+      alt="c"
+    />
+  </a>
 
 
 
