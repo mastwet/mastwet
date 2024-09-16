@@ -183,7 +183,7 @@ No Activity Tracked This Week
     />
   </a> 
 
-  <h3 align="left">Tools not use but can use for me</h3>
+  <h3 align="left">Tools not ofen use but can use for me</h3>
   <a href="https://www.altium.com/altium-designer" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Atiumdesigner-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white"
