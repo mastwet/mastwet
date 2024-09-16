@@ -165,24 +165,15 @@ No Activity Tracked This Week
       alt="stm32"
     />
   </a> 
+    
        <a href="https://lceda.cn/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/ICEDA-1765F6?style=for-the-badge&logo=easyeda&logoColor=white"
       alt="eda"
     />
   </a> 
-         <a href="https://hexo.io/zh-cn/index.html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=Hexo&logoColor=white"
-      alt="hexo"
-    />
-  </a> 
-           <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Latex-008080?style=for-the-badge&logo=Latex&logoColor=white"
-      alt="latex"
-    />
-  </a> 
+
+
              <a href="https://www.altium.com/altium-designer" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Atiumdesigner-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white"
@@ -195,24 +186,13 @@ No Activity Tracked This Week
       alt="multisim"
     />
   </a> 
-                 <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Labview-FFDB00?style=for-the-badge&logo=labview&logoColor=black"
-      alt="labview"
-    />
-  </a> 
+
                  <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"
       alt="ubuntu"
     />
-  </a> 
-                   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="vercel"
-    />
-  </a> 
+
                    <a href="https://cn.aliyun.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/alibabacloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"
