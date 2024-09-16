@@ -109,12 +109,7 @@ No Activity Tracked This Week
 <h2 align="left">Languages and Tools</h2>
 <h3 align="left">Main Languages</h3>
 <p align="left">
-    <a href="https://rust.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"
-      alt="c"
-    />
-  </a>
+
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
@@ -219,6 +214,12 @@ No Activity Tracked This Week
 </a>
 
   <h3 align="left">Use a little bit Languages</h3>
+    <a href="https://rust.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"
+      alt="c"
+    />
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
