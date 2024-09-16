@@ -141,10 +141,10 @@ No Activity Tracked This Week
       alt="arduino"
     />
   </a> 
-  <a href="https://example.com" target="_blank" rel="noreferrer">
+  <a href="https://stcai.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://via.placeholder.com/128x32.png?text=51+Single+Chip+Microcomputer"
-      alt="AI8051U"
+      src="https://nwzimg.wezhan.cn/sitefiles10287/10287325/%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE.png"
+      alt="STC8051"
     />
 </a>
   
