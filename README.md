@@ -194,6 +194,12 @@ No Activity Tracked This Week
       alt="eda"
     />
   </a> 
+  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Qt-489CD2?style=for-the-badge&logo=Qt&logoColor=white"
+      alt="Qt"
+    />
+</a>
   <a href="https://juce.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/JUCE-00A854?style=for-the-badge&logo=juce&logoColor=white"
