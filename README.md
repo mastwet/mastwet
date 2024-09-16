@@ -184,7 +184,9 @@ No Activity Tracked This Week
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   </a>
 
-
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/archlinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="git" />
+  </a>
     
   <a href="https://lceda.cn/" target="_blank" rel="noreferrer">
     <img
