@@ -166,7 +166,7 @@ No Activity Tracked This Week
     />
   </a> 
     
-       <a href="https://lceda.cn/" target="_blank" rel="noreferrer">
+  <a href="https://lceda.cn/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/ICEDA-1765F6?style=for-the-badge&logo=easyeda&logoColor=white"
       alt="eda"
@@ -174,7 +174,7 @@ No Activity Tracked This Week
   </a> 
 
 
-             <a href="https://www.altium.com/altium-designer" target="_blank" rel="noreferrer">
+  <a href="https://www.altium.com/altium-designer" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Atiumdesigner-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white"
       alt="ad"
@@ -187,25 +187,26 @@ No Activity Tracked This Week
     />
   </a> 
 
-                 <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
+    <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"
       alt="ubuntu"
     />
+    </a> 
 
-                   <a href="https://cn.aliyun.com/" target="_blank" rel="noreferrer">
+  <a href="https://cn.aliyun.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/alibabacloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"
       alt="aliyun"
     />
   </a> 
-                       <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"
       alt="markdown"
     />
   </a> 
-                         <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.labcenter.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/proteus-1C79B3?style=for-the-badge&logo=proteus&logoColor=white"
       alt="proteus"
