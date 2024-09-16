@@ -222,13 +222,13 @@ No Activity Tracked This Week
 </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
   <img
-    src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"
+    src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"
     alt="vue.js"
   />
 </a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer">
   <img
-    src="https://img.shields.io/badge/Dart-017507?style=for-the-badge&logo=dart&logoColor=white"
+    src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
     alt="dart"
   />
 </a>
