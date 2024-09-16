@@ -140,15 +140,8 @@ No Activity Tracked This Week
       src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"
     />
-      <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
-      alt="pytorch"
-    />
-  </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  </a>
+
+
   <h3 align="left">Important tools for me</h3>
    <a href="https://zh.wikipedia.org/zh-tw/Linux" target="_blank" rel="noreferrer">
     <img
@@ -163,6 +156,9 @@ No Activity Tracked This Week
       alt="ubuntu"
     />
   </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  </a>
    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white"
@@ -226,6 +222,12 @@ No Activity Tracked This Week
     <img
       src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"
       alt="docker"
+    />
+  </a>
+        <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"
+      alt="pytorch"
     />
   </a>
     
