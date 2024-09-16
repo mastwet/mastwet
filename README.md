@@ -232,6 +232,12 @@ No Activity Tracked This Week
     alt="dart"
   />
 </a>
+<a href="https://docs.oracle.com/java-se/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/Java-007394?style=for-the-badge&logo=java&logoColor=white"
+    alt="java"
+  />
+</a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer">
   <img
     src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
@@ -252,7 +258,13 @@ No Activity Tracked This Week
       src="https://img.shields.io/badge/Atiumdesigner-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white"
       alt="ad"
     />
-  </a> 
+  </a>   
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+      alt="Flutter"
+    />
+</a>
   <a href="https://www.ni.com/en/support/downloads/software-products/download.multisim.htm" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Multisim-57B685?style=for-the-badge&logo=multisim&logoColor=white"
