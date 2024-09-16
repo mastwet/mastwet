@@ -180,19 +180,19 @@ No Activity Tracked This Week
       alt="ad"
     />
   </a> 
-               <a href="https://www.ni.com/en/support/downloads/software-products/download.multisim.htm" target="_blank" rel="noreferrer">
+  <a href="https://www.ni.com/en/support/downloads/software-products/download.multisim.htm" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Multisim-57B685?style=for-the-badge&logo=multisim&logoColor=white"
       alt="multisim"
     />
   </a> 
 
-    <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
+  <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black"
       alt="ubuntu"
     />
-    </a> 
+  </a> 
 
   <a href="https://cn.aliyun.com/" target="_blank" rel="noreferrer">
     <img
