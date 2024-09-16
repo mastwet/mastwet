@@ -315,6 +315,36 @@ No Activity Tracked This Week
       alt="pytorch"
     />
   </a>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"
+      alt="Android Studio"
+    />
+</a>
+<a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"
+      alt="JetBrains"
+    />
+</a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"
+      alt="Oracle"
+    />
+</a>
+<a href="https://www.home-assistant.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Home%20Assistant-531243?style=for-the-badge&logo=home-assistant&logoColor=white"
+      alt="Home Assistant"
+    />
+</a>
+<a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"
+      alt="RabbitMQ"
+    />
+</a>
     
   <h3 align="left">Recently Learning</h3>
   <a href="https://rust.org/" target="_blank" rel="noreferrer">
