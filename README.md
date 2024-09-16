@@ -131,7 +131,7 @@ No Activity Tracked This Week
   <h3 align="left">Main Embedded Platform </h3>
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/espressif-E7352CB?style=for-the-badge&logo=espressif&logoColor=white"
+      src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"
       alt="ESP32"
     />
   </a> 
