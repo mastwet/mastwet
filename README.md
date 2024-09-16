@@ -232,8 +232,7 @@ No Activity Tracked This Week
   </a>
     
   <h3 align="left">Recently Learning</h3>
-
-    <a href="https://rust.org/" target="_blank" rel="noreferrer">
+  <a href="https://rust.org/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/-Rust-00000?style=for-the-badge&logo=rust&logoColor=red"
       alt="c"
