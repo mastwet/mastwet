@@ -143,7 +143,7 @@ No Activity Tracked This Week
   </a> 
   <a href="https://stcai.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://nwzimg.wezhan.cn/sitefiles10287/10287325/%E6%96%B0%E5%BB%BA%E9%A1%B9%E7%9B%AE.png"
+      src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white"
       alt="STC8051"
     />
 </a>
