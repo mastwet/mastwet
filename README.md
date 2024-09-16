@@ -260,6 +260,12 @@ No Activity Tracked This Week
     />
   </a> 
 
+  <a href="https://www.ni.com/en/support/downloads/software-products/download.multisim.htm" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"
+      alt="kubernetes"
+    />
+  </a> 
 
   <a href="https://cn.aliyun.com/" target="_blank" rel="noreferrer">
     <img
