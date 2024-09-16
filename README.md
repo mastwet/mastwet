@@ -102,6 +102,7 @@ No Activity Tracked This Week
 
 
 <h2 align="left">Languages and Tools</h2>
+<h3 align="left">Main Languages</h3>
 <p align="left">
     <a href="https://rust.org/" target="_blank" rel="noreferrer">
     <img
@@ -127,6 +128,7 @@ No Activity Tracked This Week
       alt="python"
     />
   </a>
+  <h3 align="left">Use a little bit Languages</h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
@@ -147,6 +149,7 @@ No Activity Tracked This Week
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   </a>
+  <h3 align="left">Important tools for me</h3>
    <a href="https://zh.wikipedia.org/zh-tw/Linux" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
