@@ -196,7 +196,7 @@ No Activity Tracked This Week
   </a> 
   <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Qt-489CD2?style=for-the-badge&logo=Qt&logoColor=white"
+      src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white"
       alt="Qt"
     />
 </a>
