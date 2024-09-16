@@ -106,7 +106,7 @@ No Activity Tracked This Week
 <p align="left">
     <a href="https://rust.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/-Rust-00000?style=for-the-badge&logo=rust&logoColor=red"
+      src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"
       alt="c"
     />
   </a>
