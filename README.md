@@ -97,6 +97,11 @@ No Activity Tracked This Week
  Last Updated on 05/05/2024 16:37:16 UTC
 <!--END_SECTION:waka-->
 <h2 align="left">Metrics</h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YuzukiTsuru/YuzukiTsuru/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YuzukiTsuru/YuzukiTsuru/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YuzukiTsuru/YuzukiTsuru/output/github-contribution-grid-snake.svg">
+</picture>
 
 ![Personal 3D Metrics](./profile-3d-contrib/profile-season-animate.svg)
 
