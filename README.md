@@ -128,6 +128,20 @@ No Activity Tracked This Week
       alt="python"
     />
   </a>
+  <h3 align="left">Main Embedded Platform </h3>
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"
+      alt="stm32"
+    />
+  </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white"
+      alt="arduino"
+    />
+  </a> 
+  
   <h3 align="left">Use a little bit Languages</h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
@@ -159,18 +173,8 @@ No Activity Tracked This Week
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   </a>
-   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white"
-      alt="arduino"
-    />
-  </a> 
-     <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"
-      alt="stm32"
-    />
-  </a> 
+
+
     
   <a href="https://lceda.cn/" target="_blank" rel="noreferrer">
     <img
