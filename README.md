@@ -141,6 +141,12 @@ No Activity Tracked This Week
       alt="arduino"
     />
   </a> 
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/platformio-F5822A?style=for-the-badge&logo=platformio&logoColor=white"
+      alt="platformio"
+    />
+  </a> 
   <a href="https://stcai.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/STC8051-0071C5?style=for-the-badge&logo=Intel&logoColor=#0071C5"
