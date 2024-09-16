@@ -141,6 +141,12 @@ No Activity Tracked This Week
       alt="arduino"
     />
   </a> 
+  <a href="https://example.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://via.placeholder.com/128x32.png?text=51+Single+Chip+Microcomputer"
+      alt="AI8051U"
+    />
+</a>
   
   <h3 align="left">Use a little bit Languages</h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
