@@ -131,6 +131,18 @@ No Activity Tracked This Week
   <h3 align="left">Main Embedded Platform </h3>
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
     <img
+      src="https://img.shields.io/badge/espressif-E7352CB?style=for-the-badge&logo=espressif&logoColor=white"
+      alt="ESP32"
+    />
+  </a> 
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"
+      alt="RaspberryPi Series"
+    />
+  </a> 
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
+    <img
       src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"
       alt="stm32"
     />
@@ -141,12 +153,7 @@ No Activity Tracked This Week
       alt="arduino"
     />
   </a> 
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/platformio-F5822A?style=for-the-badge&logo=platformio&logoColor=white"
-      alt="platformio"
-    />
-  </a> 
+
   <a href="https://stcai.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/STC8051-0071C5?style=for-the-badge&logo=Intel&logoColor=#0071C5"
@@ -154,6 +161,12 @@ No Activity Tracked This Week
     />
 </a>
  <h3 align="left">Important tools for me</h3>
+   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/platformio-F5822A?style=for-the-badge&logo=platformio&logoColor=white"
+      alt="platformio"
+    />
+  </a> 
    <a href="https://zh.wikipedia.org/zh-tw/Linux" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
