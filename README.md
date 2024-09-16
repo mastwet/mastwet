@@ -194,6 +194,24 @@ No Activity Tracked This Week
       alt="eda"
     />
   </a> 
+  <a href="https://juce.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/JUCE-00A854?style=for-the-badge&logo=juce&logoColor=white"
+      alt="JUCE"
+    />
+</a>
+<a href="https://www.arm.com/products/development-tools/software-tools/arm-keil-mdk" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/armkeil-0176DB?style=for-the-badge&logo=armkeil&logoColor=white"
+      alt="ARM Keil"
+    />
+</a>
+<a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/FreeRTOS-00FF00?style=for-the-badge&logoColor=black"
+      alt="FreeRTOS"
+    />
+</a>
 
   <h3 align="left">Use a little bit Languages</h3>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
