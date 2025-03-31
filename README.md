@@ -419,7 +419,7 @@ No Activity Tracked This Week
       src="https://img.shields.io/badge/gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white"
       alt="gitee: mengfanjun"/>
   </a>
-                  <a href="https://www.kaggle.com/funjunmeng"
+                  <a href="https://www.kaggle.com/mastwet"
     target="blank"><img align="center"
       src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"
       alt="kaggle: mengfanjun"/>
