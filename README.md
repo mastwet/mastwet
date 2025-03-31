@@ -11,7 +11,8 @@
 
 # Hi,there is Mastwet(Canny Xie)👋
 - An Embedded Systems Engineer from China. 🇨🇳
-- CEO at Rapidpulze Technology, steering innovation.
+- Funder of Undefine Innovation,aim at brew the **greatest technology company or organization in the world**.
+- Leader of Rapidpulze,the **first music device opensource organization in china**.
 - This is my [blog]([https://www.cnblogs.com/bigtwetwet](https://www.cnblogs.com/bigtwetwet)), most of which is my study record, later thought, blog can also record some personal life what
 - My [email](mastwet@foxmail.com), please contact me if you have any questions
 - Melodies meet code: catch my tunes on NetEase Cloud Music Or SoundCloud.
@@ -400,20 +401,20 @@ No Activity Tracked This Week
 <!-- Connect with me -->
 <h2 align="left">Connect with me</h2>
 <p align="left">
-  <a href="https://github.com/Mengfanjun020906"
+  <a href="https://github.com/mastwet"
     target="blank"><img align="center"
       src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
       alt="github: mengfanjun"/>
-      <a href="https://www.zhihu.com/people/bu-shi-hen-sha-31"
+      <a href="https://www.zhihu.com/people/mastwet"
     target="blank"><img align="center"
       src="https://img.shields.io/badge/zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white"
       alt="zhihu: mengfanjun"/>
-              <a href="https://twitter.com/Solitude63420"
+              <a href="https://twitter.com/mastwet"
     target="blank"><img align="center"
       src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=white"
       alt="twitter: mengfanjun"/>
   </a>
-                <a href="https://gitee.com/meng-fanjun-123"
+                <a href="https://gitee.com/mastwet"
     target="blank"><img align="center"
       src="https://img.shields.io/badge/gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white"
       alt="gitee: mengfanjun"/>
