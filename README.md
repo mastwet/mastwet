@@ -88,10 +88,10 @@ Sunday                   0 commits          ░░░░░░░░░░░░
 Rust,C++
 
 🔥 Games: 
-RA3
+RA3,Overwatch
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows,Linux
 ```
 
 
