@@ -12,7 +12,7 @@
 # Hi,there is Mastwet(Canny Xie)👋
 - An Embedded Systems Engineer ,Product Manager,Musician from China. 🇨🇳
 - Funder and leader of Undefine Innovation,aim at brew the **greatest technology company or organization in the world**.
-- Funder and leader of Rapidpulze,the **China's first open source electronic musical instrument design organization**.
+- ~~Funder and leader of Rapidpulze,the **China's first open source electronic musical instrument design organization**.~~
 - This is my [blog]([https://www.cnblogs.com/bigtwetwet](https://www.cnblogs.com/bigtwetwet)), most of which is my study record, later thought, blog can also record some personal life what
 - My [email](mastwet@foxmail.com), please contact me if you have any questions
 - Melodies meet code: catch my tunes on NetEase Cloud Music Or SoundCloud.
