@@ -51,7 +51,8 @@
 <a href="unknow" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=unknow&message=MyBlog&color=gray&labelColor=2C68C3&style=for-the-badge&logo=MicroSoftOneDrive&logoColor=white" alt="GitHub" /></a>
 
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/api?username=mastwet&hide=contribs)](https://mastwet.github.io/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <a href="https://mastwet.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mastwet&hide=contribs"/>
