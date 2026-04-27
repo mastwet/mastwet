@@ -51,7 +51,7 @@
 <a href="unknow" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/static/v1?label=unknow&message=MyBlog&color=gray&labelColor=2C68C3&style=for-the-badge&logo=MicroSoftOneDrive&logoColor=white" alt="GitHub" /></a>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 <a href="https://mastwet.github.io/">
@@ -61,7 +61,7 @@
 
 <h2 align="left">Coding Stats</h2>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 📅 **I'm Lazy all the time!** 
 
 ```text
