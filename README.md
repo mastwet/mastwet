@@ -61,7 +61,6 @@
 
 <h2 align="left">Coding Stats</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 📅 **I'm Lazy all the time!** 
 
 ```text
