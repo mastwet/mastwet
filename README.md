@@ -52,7 +52,7 @@
 
 
 
-[![mastwet](https://github-profile-trophy.vercel.app/?username=mastwet)](https://github.com/ryo-ma/github-profile-trophy)
+[![mastwet](https://github-profile-trophy.vercel.app/?username=mastwet)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/mastwet)
 <a href="https://mastwet.github.io/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mastwet&hide=contribs"/>
 </a>
