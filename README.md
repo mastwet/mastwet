@@ -53,9 +53,7 @@
 
 
 
-<a href="https://mastwet.github.io/">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=mastwet&row=1&column=4"/>
-</a>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=mastwet&row=1&column=4"/>
 
 
 <a href="https://mastwet.github.io/">
