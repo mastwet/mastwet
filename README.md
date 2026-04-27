@@ -423,6 +423,6 @@ Windows,Linux
   </a>
 
   <h2 align="left">Counter</h2>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=Mengfanjun020906&style=for-the-badge" />
+<a href="https://github.com/mastwet/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=mastwet&style=for-the-badge" />
 </a>
