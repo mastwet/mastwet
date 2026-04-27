@@ -124,6 +124,26 @@ Windows,Linux
       alt="python"
     />
   </a>
+    <h3 align="left">Recently VibeCoding</h3>
+  <a href="https://rust.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"
+      alt="c"
+    />
+  </a>
+  <a href="https://rust.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white"
+      alt="c"
+    />
+  </a>
+  <a href="https://zh.wikipedia.org/zh-tw/Linux" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
+      alt="linux"
+    />
+  </a> 
+  
   <h3 align="left">Main Embedded Platform </h3>
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
     <img
@@ -372,25 +392,7 @@ Windows,Linux
     />
 </a>
     
-  <h3 align="left">Recently Learning</h3>
-  <a href="https://rust.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white"
-      alt="c"
-    />
-  </a>
-  <a href="https://rust.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/ros-22314E?style=for-the-badge&logo=ros&logoColor=white"
-      alt="c"
-    />
-  </a>
-  <a href="https://zh.wikipedia.org/zh-tw/Linux" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
-      alt="linux"
-    />
-  </a> 
+
 
 
 <!-- Connect with me -->
