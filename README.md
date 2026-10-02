@@ -105,7 +105,12 @@ Windows,Linux
 <h2 align="left">Languages and Tools</h2>
 <h3 align="left">Main Languages</h3>
 <p align="left">
-
+<a href="https://go.dev/" target="_blank" rel="noreferrer">
+  <img
+    src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
+    alt="Go"
+  />
+</a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
